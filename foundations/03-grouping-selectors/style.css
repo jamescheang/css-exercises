@@ -1,0 +1,13 @@
+.button-font {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.button-font.first {
+    background-color: black;
+    color: white;
+}
+
+.button-font.second {
+    background-color: yellow;
+}
